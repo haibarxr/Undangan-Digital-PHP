@@ -64,7 +64,7 @@ git clone https://github.com/n4vrl0s3/Undangan-Digital-PHP.git
 3. **Open your browser and navigate to**
 
 ```
-http://localhost/Undangan-Digital-PHP
+http://localhost/Undangan-Digitall-PHP
 ```
 
 <hr><br>
